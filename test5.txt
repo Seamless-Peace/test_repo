@@ -2,11 +2,8 @@ hi
 my
 name
 is
-<<<<<<< HEAD
 Arpit
 Yadav
 Abhi
-=======
 Abhi
 Goyal
->>>>>>> testing2
